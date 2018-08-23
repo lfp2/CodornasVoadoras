@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\lavin\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_CodornasVoadoras.-601844797.00" t="ExcludeRecursive" />
+    <e p="C:\Users\lavin\Documents\CodornasVoadoras" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="EndAudioScript.cs" t="Include" />
+        <e p="RunningSound.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="AudioScript.cs" t="Include" />
+          <e p="ButtonDireita.cs" t="Include" />
+          <e p="ClueSound.cs" t="Include" />
+          <e p="Countdown.cs" t="Include" />
+          <e p="EndScriptAudio.cs" t="Include" />
+          <e p="Fight.cs" t="Include" />
+          <e p="getLP.cs" t="Include" />
+          <e p="Intro.cs" t="Include" />
+          <e p="Knock.cs" t="Include" />
+          <e p="VoltaVitrola.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CodornasVoadoras.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

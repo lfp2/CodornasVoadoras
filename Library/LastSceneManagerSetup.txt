@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Decision.unity
+  isLoaded: 1
+  isActive: 1
